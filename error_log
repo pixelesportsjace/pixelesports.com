@@ -1,0 +1,2 @@
+[11-Aug-2023 07:47:43 UTC] PHP Fatal error:  Out of memory (allocated 246083584 bytes) (tried to allocate 1720320 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 149
+[11-Aug-2023 08:01:54 UTC] PHP Fatal error:  Out of memory (allocated 221966336 bytes) (tried to allocate 368640 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Json/JsonFile.php on line 176
